@@ -5,7 +5,7 @@
 * If you are familiar with these concepts, you can quickly revise them
 * Also, we'll practise few tutorials to deepen our understanding 
 
-Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey together!
+Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high!
 
 1. [Neural Networks](./Neural%20networks)
 
